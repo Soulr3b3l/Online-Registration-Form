@@ -141,7 +141,7 @@ textarea {
     padding-bottom: 40px;
 }
 
-select[id="state"] {
+select[id="state"], [id="country"]  {
     width: 100%;
     padding: 10px 20px 10px 20px;
     margin: 5px auto 20px;
